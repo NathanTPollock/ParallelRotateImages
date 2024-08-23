@@ -1,5 +1,5 @@
 # Parallel Rotate Images C#
-Hello, this is a program mainly testing the parallel feature of C#. Here is the relatively short Program.cs code:
+Hello, this is a program mainly testing the parallel feature of C#. Zip contains the full solution, here is the relatively short Program.cs code:
 ```
 
 // This project demonstrates how to rotate multiple images in parallel using Aspose.Imaging for .NET.
